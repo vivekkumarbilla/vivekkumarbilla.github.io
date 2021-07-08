@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dep/static/css/main.a061ec43.chunk.css",
+    "main.js": "/dep/static/js/main.5e07de60.chunk.js",
+    "main.js.map": "/dep/static/js/main.5e07de60.chunk.js.map",
+    "runtime-main.js": "/dep/static/js/runtime-main.e29f9f2d.js",
+    "runtime-main.js.map": "/dep/static/js/runtime-main.e29f9f2d.js.map",
+    "static/css/2.b1ed7e90.chunk.css": "/dep/static/css/2.b1ed7e90.chunk.css",
+    "static/js/2.8f9ce7c9.chunk.js": "/dep/static/js/2.8f9ce7c9.chunk.js",
+    "static/js/2.8f9ce7c9.chunk.js.map": "/dep/static/js/2.8f9ce7c9.chunk.js.map",
+    "static/js/3.6c848706.chunk.js": "/dep/static/js/3.6c848706.chunk.js",
+    "static/js/3.6c848706.chunk.js.map": "/dep/static/js/3.6c848706.chunk.js.map",
+    "static/js/4.8d72c773.chunk.js": "/dep/static/js/4.8d72c773.chunk.js",
+    "static/js/4.8d72c773.chunk.js.map": "/dep/static/js/4.8d72c773.chunk.js.map",
+    "static/js/5.1a8e8766.chunk.js": "/dep/static/js/5.1a8e8766.chunk.js",
+    "static/js/5.1a8e8766.chunk.js.map": "/dep/static/js/5.1a8e8766.chunk.js.map",
+    "index.html": "/dep/index.html",
+    "static/css/2.b1ed7e90.chunk.css.map": "/dep/static/css/2.b1ed7e90.chunk.css.map",
+    "static/css/main.a061ec43.chunk.css.map": "/dep/static/css/main.a061ec43.chunk.css.map",
+    "static/js/2.8f9ce7c9.chunk.js.LICENSE.txt": "/dep/static/js/2.8f9ce7c9.chunk.js.LICENSE.txt",
+    "static/js/3.6c848706.chunk.js.LICENSE.txt": "/dep/static/js/3.6c848706.chunk.js.LICENSE.txt",
+    "static/js/4.8d72c773.chunk.js.LICENSE.txt": "/dep/static/js/4.8d72c773.chunk.js.LICENSE.txt",
+    "static/js/5.1a8e8766.chunk.js.LICENSE.txt": "/dep/static/js/5.1a8e8766.chunk.js.LICENSE.txt",
+    "static/media/depact.css": "/dep/static/media/nucleo.5c65ef4d.woff",
+    "static/media/defu.10691648.png": "/dep/static/media/defu.10691648.png",
+    "static/media/all.min.css": "/dep/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/kj.png": "/dep/static/media/kj.da7a312f.png",
+    "static/media/kj3.5f6df2bb.png": "/dep/static/media/kj3.5f6df2bb.png",
+    "static/media/kjm.png": "/dep/static/media/kjm.3a76559f.png",
+    "static/media/ld.0abacba9.gif": "/dep/static/media/ld.0abacba9.gif",
+    "static/media/noimage1.26123e52.jpg": "/dep/static/media/noimage1.26123e52.jpg",
+    "static/media/noimage2.10d6ae03.jpg": "/dep/static/media/noimage2.10d6ae03.jpg",
+    "static/media/nucleo.css": "/dep/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e29f9f2d.js",
+    "static/css/2.b1ed7e90.chunk.css",
+    "static/js/2.8f9ce7c9.chunk.js",
+    "static/css/main.a061ec43.chunk.css",
+    "static/js/main.5e07de60.chunk.js"
+  ]
+}
